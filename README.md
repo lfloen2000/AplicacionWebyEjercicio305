@@ -5,6 +5,6 @@
 
 * Ejercicio aplicacion web:
 * <img src="./Ejercicios/imagenes/Captura%20de%20pantalla%202021-05-20%20124505.png"></img>
-*
+
 * Ejercicio de botones:
 * <img src="./Ejercicios/imagenes/Captura%20de%20pantalla%202021-05-20%20124557.png"></img>
